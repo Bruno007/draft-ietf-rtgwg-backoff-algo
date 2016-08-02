@@ -9,9 +9,5 @@ You should be able generate the text version of the most recent XML commit using
 http://xml2rfc.tools.ietf.org/cgi-bin/xml2rfc.cgi?url=https://raw.githubusercontent.com/Bruno007/draft-ietf-rtgwg-backoff-algo/master/draft-ietf-rtgwg-backoff-algo.xml&modeAsFormat=txt/ascii&type=ascii
 
 And this should produce a diff of the most recently published ietf draft, and the latest version in the repository.
-https://tools.ietf.org/rfcdiff?url1=draft-ietf-rtgwg-backoff-algo.txt&url2=http://xml2rfc.tools.ietf.org/cgi-bin/xml2rfc.cgi?url=https://raw.githubusercontent.com/Bruno007/draft-ietf-rtgwg-backoff-algo/master/draft-ietf-rtgwg-backoff-algo.xml&modeAsFormat=txt/ascii&type=ascii
+https://tools.ietf.org/rfcdiff?url1=draft-ietf-rtgwg-backoff-algo&url2=https://tinyurl.com/jkkq3ed
 
-If that doesn't work, paste the raw github content URL into the xml2rfc tool at:
-http://xml2rfc.tools.ietf.org/
-
-https://raw.githubusercontent.com/Bruno007/draft-ietf-rtgwg-backoff-algo/master/draft-ietf-rtgwg-backoff-algo.xml
